@@ -25,5 +25,6 @@ This work will:
 (3) On the basis of the results obtained, prototypes of biodegradable (not just recyclable) objects will be created, in order to offer a local alternative to plastic objects. This project could serve to better protect endangered local species by controlling the proliferation of invasive ones.
 
 
+![ Schema biodegradable objects made of local plants](https://github.com/Cel31/Biodegradable-objects-made-of-local-plants/blob/main/Schema%20biodegradable%20chaine%20operatoire%20%20(1).png)
 
 
