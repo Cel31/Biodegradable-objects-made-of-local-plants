@@ -7,6 +7,12 @@
 
 The idea was inspired by observing locals during fieldwork in South-East Asia for my PhD thesis. For example, the Areca palm can hold liquids, in this case soup, without leaking (Fig.1) and the Abaca banana fibre can be used as a bandage because it sticks to the skin and has antiseptic properties (Fig.2).
 
+![ Figure 1. Boulder soup container is made of the palm tree Areca sp. by the Rukai  people in Taiwan.](https://github.com/Cel31/Biodegradable-objects-made-of-local-plants/blob/main/20190413_153113.jpg)
+`Figure 1. Boulder soup container is made of the palm tree Areca sp. by the Rukai  people in Taiwan.` 
+
+![ Figure 2.  Musa textilis - Abaca fiber used into bandage by the people from Sorsogon, Philippines.](Biodegradable-objects-made-of-local-plants/20190803_110811_HDR.jpg at main · Cel31/Biodegradable-objects-made-of-local-plants (github.com)
+`Figure 2.  Musa textilis - Abaca fiber used into bandage by the people from Sorsogon, Philippines.`  
+
 ## Methods
 I propose to interview basket-makers and to study museum collections which preserved baskets to gather data on the properties of local fibrous plants. 
 The goal is to select plants whose use and origin are clearly identified (status of the plant: indigenous, introduced, invasive) in order to create a database. Plant fibers have specific features such as length, shape or cellulose or lignin content that defines their properties. Therefore, the aim of this database is to document the specific anatomical properties and chemical content (UMR IATE, Montpellier) of local plants. 
