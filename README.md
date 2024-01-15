@@ -7,7 +7,7 @@
 
 The idea was inspired by observing locals during fieldwork in South-East Asia for my PhD thesis. For example, the Areca palm can hold liquids, in this case soup, without leaking (Fig.1) and the Abaca banana fibre can be used as a bandage because it sticks to the skin and has antiseptic properties (Fig.2).
 
-![ Figure 1. Boulder soup container is made of the palm tree Areca sp. by the Rukai  people in Taiwan.](https://github.com/Cel31/Biodegradable-objects-made-of-local-plants/blob/main/20190413_153113.jpg)
+![20190413_153113.jpg](images/20190413_153113.jpg)
 `Figure 1. Boulder soup container is made of the palm tree Areca sp. by the Rukai  people in Taiwan.` 
 
 
