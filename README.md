@@ -11,7 +11,7 @@ The idea was inspired by observing locals during fieldwork in South-East Asia fo
 `Figure 1. Boulder soup container is made of the palm tree Areca sp. by the Rukai  people in Taiwan.` 
 
 
-![ Figure 2.  Musa textilis - Abaca fiber used into bandage by the people from Sorsogon, Philippines.](https://github.com/Cel31/Biodegradable-objects-made-of-local-plants/blob/main/20190803_110811_HDR.jpg)
+![20190803_110811_HDR.jpg](https://github.com/Cel31/Biodegradable-objects-made-of-local-plants/blob/main/20190803_110811_HDR.jpg)
 `Figure 2.  Musa textilis - Abaca fiber used into bandage by the people from Sorsogon, Philippines.`
 
 ## Methods
